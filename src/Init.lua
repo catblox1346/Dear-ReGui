@@ -53,6 +53,7 @@ local ReGui = {
 }
 
 --// Modules
+print("@lib")
 local IDE = require("@lib/ide.lua")
 local Wrappers = require("@classes/Wrappers.lua")
 local Animation = require("@classes/Animations.lua")
